@@ -1,16 +1,14 @@
 ### Olá, me chamo Felipe Allan
 
 -📚 Atualmente estudo Javascript, html e css.
-
 -🧱 Tenho conhecimento em Java e springboot.
-
 -⏳ Comecei a programar aos meus 15 anos.
 
 ##
 
 <div>
- <img align=center src="https://github-readme-stats.vercel.app/api?username=Feallandg&show_icons=true&theme=radical">
-<img align=center width=485 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feallandg&layout=compact&theme=radical"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=Feallandg&show_icons=true&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feallandg&layout=compact&theme=radical"> 
 </div>
 <br>
 <div class="icon">
@@ -28,3 +26,7 @@
   <a href="https://www.instagram.com/feallan083" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.mail.google.com/felipeallandk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    </div>
+ 
+##
+
+
