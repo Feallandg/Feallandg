@@ -1,8 +1,8 @@
 ### Olá, me chamo Felipe Allan
 
--📚 Atualmente estudo Javascript, html e css.
+-📚 Explorando minhas capacidades na tecnologia!
 
--🧱 Tenho conhecimento em Java e springboot.
+-🧱 Tenho conhecimento em Java e springboot, Javascript, html e css.
 
 -⏳ Comecei a programar aos meus 15 anos.
 
