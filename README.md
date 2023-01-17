@@ -4,7 +4,7 @@
 
 -🧱 Tenho conhecimento em Java e springboot, Javascript, html e css.
 
--⏳ Comecei a programar aos meus 15 anos.
+-⏳ Comecei a programar aos meus 14 anos.
 
 ##
 
