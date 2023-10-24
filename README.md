@@ -13,17 +13,19 @@
  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feallandg&layout=compact&theme=radical"> 
 </div>
 <br>
-<div class="icon">
-  <img align=center alt="js" width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align=center alt="html" width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align=center alt="css" width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align=center alt="java" width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<div align="center"class="icon">
+  <img align=center alt="js" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align=center alt="html" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align=center alt="css" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align=center alt="java" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align=center alt="html" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align=center alt="html" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
   
 </div>
 
 ##
 
-<div class="contato">
+<div align="center" class="contato">
   <a href="https://www.linkedin.com/in/felipe-allan-523454211" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/feallan083" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.mail.google.com/felipeallandk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
