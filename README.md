@@ -2,7 +2,7 @@
 
 -📚 Explorando minhas capacidades na tecnologia!
 
--🧱 Tenho conhecimento em Java, Javascript, html e css, entre outros.
+-⚙ Possuo conhecimento em Java, Javascript, html e css, entre outros.
 
 -⏳ Comecei a programar aos meus 15 anos.
 
