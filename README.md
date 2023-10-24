@@ -2,7 +2,7 @@
 
 -📚 Explorando minhas capacidades na tecnologia!
 
--🧱 Tenho conhecimento em Java e springboot, Javascript, html e css, entre outros.
+-🧱 Tenho conhecimento em Java, Javascript, html e css, entre outros.
 
 -⏳ Comecei a programar aos meus 15 anos.
 
