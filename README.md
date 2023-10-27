@@ -2,7 +2,7 @@
 
 -📚 Explorando minhas capacidades na tecnologia!
 
--⚙ Possuo conhecimento em Java, Javascript, html e css, entre outros.
+-⚙ Possuo conhecimento em Javascript, html e css, entre outros.
 
 -⏳ Comecei a programar aos meus 15 anos.
 
@@ -17,7 +17,6 @@
   <img align=center alt="js" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align=center alt="html" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align=center alt="css" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align=center alt="java" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align=center alt="html" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align=center alt="html" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
   
